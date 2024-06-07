@@ -4,8 +4,9 @@ import NavBar from './NavBar'
 const ViewBook = () => {
   return (
     <div>
-        <NavBar/>
         <h1><center>LIST OF BOOKS</center></h1>
+        <NavBar/>
+        
         <br />
         <div className="container">
             <div className="row">
@@ -43,42 +44,42 @@ const ViewBook = () => {
       <td>599</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
+      <th scope="row">4</th>
       <td>wings of fire</td>
       <td>apj abdul kalam</td>
       <td>abc</td>
       <td>599</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
+      <th scope="row">5</th>
       <td>wings of fire</td>
       <td>apj abdul kalam</td>
       <td>abc</td>
       <td>599</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
+      <th scope="row">6</th>
       <td>wings of fire</td>
       <td>apj abdul kalam</td>
       <td>abc</td>
       <td>599</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
+      <th scope="row">7</th>
       <td>wings of fire</td>
       <td>apj abdul kalam</td>
       <td>abc</td>
       <td>599</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
+      <th scope="row">8</th>
       <td>wings of fire</td>
       <td>apj abdul kalam</td>
       <td>abc</td>
       <td>599</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
+      <th scope="row">9</th>
       <td>wings of fire</td>
       <td>apj abdul kalam</td>
       <td>abc</td>
