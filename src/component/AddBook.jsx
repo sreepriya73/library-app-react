@@ -4,9 +4,9 @@ import NavBar from './NavBar'
 const AddBook = () => {
   return (
     <div>
-        <h1><center>ADD BOOK</center></h1>
-        <NavBar/>
         
+        <NavBar/>
+        <h1><center>ADD BOOK</center></h1>
         <br />
         <div className="container">
             <div className="row">

@@ -4,9 +4,9 @@ import NavBar from './NavBar'
 const ViewBook = () => {
   return (
     <div>
-        <h1><center>LIST OF BOOKS</center></h1>
+       
         <NavBar/>
-        
+        <h1><center>LIST OF BOOKS</center></h1>
         <br />
         <div className="container">
             <div className="row">
